@@ -2,9 +2,9 @@
 
 ### Day 0: January 1, 2022
 
-**Today's Progress**: 
+**Today's Progress**:
 
-**Thoughts:** 
+**Thoughts:**
 
 <!--
 
