@@ -1,10 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 1, 2022
+### Day 1: January 2, 2022
 
 **Today's Progress**:
+Complete the exercise Three number sum from AlgoExpert
 
 **Thoughts:**
+This challenge took me 1hour and I need to use the hints. I got blocked trying to optimize from th beginning. I should always try the basic approach first and then understand how I could simplify and optimize. That is what the Hints end up helping me.
 
 <!--
 
