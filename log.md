@@ -8,6 +8,14 @@ Complete the exercise Three number sum from AlgoExpert
 **Thoughts:**
 This challenge took me 1hour and I need to use the hints. I got blocked trying to optimize from th beginning. I should always try the basic approach first and then understand how I could simplify and optimize. That is what the Hints end up helping me.
 
+### Day 2: January 3, 2022
+
+**Today's Progress**:
+Complete the exercise Smallest Difference from AlgoExpert
+
+**Thoughts:**
+This challenge took me 1hour to implement but I didn't use any hint. it took me more on the implementation dumb errors during code. The implementation was not the best performance but I was following the correct path and idea. 
+
 <!--
 
 ### Day 0: February 30, 2016 (Example 2)
