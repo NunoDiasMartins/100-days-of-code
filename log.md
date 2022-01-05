@@ -15,6 +15,18 @@ Complete the exercise Smallest Difference from AlgoExpert
 
 **Thoughts:**
 This challenge took me 1hour to implement but I didn't use any hint. it took me more on the implementation dumb errors during code. The implementation was not the best performance but I was following the correct path and idea. 
+### Day 3: January 4, 2022
+
+**Today's Progress**:
+Complete the exercise 'Move element to end' and the 'Monotonic array' from AlgoExpert
+
+
+**Thoughts:**
+I was able to provide two solution for the first problem. the first solution was a worst performance O(n log(n)), the second one was the desired O(n)
+Did both solution in less than 25 minutes.
+The 'Monotonic array' was be able to complete in 20 minutes.
+Today  I was able to do it without any hint or blocking issue. I was a good day!
+
 
 <!--
 
