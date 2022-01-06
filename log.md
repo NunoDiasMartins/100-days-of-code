@@ -15,6 +15,7 @@ Complete the exercise Smallest Difference from AlgoExpert
 
 **Thoughts:**
 This challenge took me 1hour to implement but I didn't use any hint. it took me more on the implementation dumb errors during code. The implementation was not the best performance but I was following the correct path and idea. 
+
 ### Day 3: January 4, 2022
 
 **Today's Progress**:
@@ -26,6 +27,15 @@ I was able to provide two solution for the first problem. the first solution was
 Did both solution in less than 25 minutes.
 The 'Monotonic array' was be able to complete in 20 minutes.
 Today  I was able to do it without any hint or blocking issue. I was a good day!
+
+### Day 4: January 5, 2022
+
+**Today's Progress**:
+Complete the exercise 'Spiral Traverse array'  from AlgoExpert
+
+
+**Thoughts:**
+It took me +1hour to solve the problem. I didn't use any HINT but i was able to find a solution somehow quickly but the implementation took me more because of the turn of the rows. It was some mistakes playing with the array mainly the factor calculation.
 
 
 <!--
