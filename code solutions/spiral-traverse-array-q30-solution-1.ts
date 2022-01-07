@@ -10,19 +10,15 @@ export function spiralTraverse(array: number[][]) {
         result.push(array[l][c]);
 
         if (increment[1] + c === maxC - factor) {
-            console.log('1')
 
             increment = [1, 0];
         } else if (increment[1] + c - factor === - 1) {
-            console.log('3')
             increment = [-1, 0];
 
         } else if (increment[0] + l === maxL - factor) {
-            console.log('2')
-
             increment = [0, -1];
         }
-        //check if did the loop 
+        //check if did the loop
         if (l === 1 + factor && c === factor) {
             factor++; //one loop around the array was done
         }

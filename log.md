@@ -37,6 +37,16 @@ Complete the exercise 'Spiral Traverse array'  from AlgoExpert
 **Thoughts:**
 It took me +1hour to solve the problem. I didn't use any HINT but i was able to find a solution somehow quickly but the implementation took me more because of the turn of the rows. It was some mistakes playing with the array mainly the factor calculation.
 
+### Day 5: January 6, 2022
+
+**Today's Progress**:
+Complete the exercise 'Longest Peak'  from AlgoExpert
+
+
+**Thoughts:**
+It took me +1hour to solve the problem and i didn't like the solution it was much of try and fail. I made it more complex than should .tomorrow will revisit. 
+
+
 
 <!--
 
