@@ -46,6 +46,14 @@ Complete the exercise 'Longest Peak'  from AlgoExpert
 **Thoughts:**
 It took me +1hour to solve the problem and i didn't like the solution it was much of try and fail. I made it more complex than should .tomorrow will revisit. 
 
+### Day 6: January 7, 2022
+
+**Today's Progress**:
+Complete two exercises 'array of products' and 'first duplicate value'  from AlgoExpert
+
+
+**Thoughts:**
+The first  exercise quickly I did by using a O(n^2) solution, I tried to improve during a while but without success. I even used the Hints but I wasn't getting the idea. The second exercise I was able to complete with a O(n) solution but it was O(n) in space too.. The worst solution would be O(n^2) time. The solution was O(1) space. I read the Hint's but once again I wasn't getting the point. The best solution was related to the hints the problem statement was giving , like (you can mutate the array and all number are bigger than one and lower than array length). In general today I show some fatigue and unmotivated. Tomorrow will be a better day! 
 
 
 <!--
