@@ -53,9 +53,16 @@ Complete two exercises 'array of products' and 'first duplicate value'  from Alg
 
 
 **Thoughts:**
-The first  exercise quickly I did by using a O(n^2) solution, I tried to improve during a while but without success. I even used the Hints but I wasn't getting the idea. The second exercise I was able to complete with a O(n) solution but it was O(n) in space too.. The worst solution would be O(n^2) time. The solution was O(1) space. I read the Hint's but once again I wasn't getting the point. The best solution was related to the hints the problem statement was giving , like (you can mutate the array and all number are bigger than one and lower than array length). In general today I show some fatigue and unmotivated. Tomorrow will be a better day! 
+The first  exercise quickly I did by using a O(n^2) solution, I tried to improve during a while but without success. I even used the Hints but I wasn't getting the idea. The second exercise I was able to complete with a O(n) solution but it was O(n) in space too.. The worst solution would be O(n^2) time. The solution was O(1) space. I read the Hint's but once again I wasn't getting the point. The best solution was related to the hints the problem statement was giving , like (you can mutate the array and all number are bigger than one and lower than array length). In general today I show some fatigue and unmotivated. Tomorrow will be a better day!
+
+### Day 7: January 9, 2022
+
+**Today's Progress**:
+Complete two exercises 'overlapping intervals' and 'BST construction'  from AlgoExpert
 
 
+**Thoughts:**
+The first exercise completed in a couple of minutes (around 15) but the second I got stuck in the remove method  (the hardest one). I was able to complete the method passing majority of the test cases but I was struggling with some edge cases. End up looking to their solution nd replicate the code reusing part of mine. It was a mediocre day! In the question for BSt they ask what is the difference between the solution in recursive and iteratively. The solution using recursive consumes more  memory space, O(log (n)). But the code makes much more sense and more cleaning in this type of  exercises in my opinion.
 <!--
 
 ### Day 0: February 30, 2016 (Example 2)
