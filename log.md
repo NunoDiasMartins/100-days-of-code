@@ -63,6 +63,15 @@ Complete two exercises 'overlapping intervals' and 'BST construction'  from Algo
 
 **Thoughts:**
 The first exercise completed in a couple of minutes (around 15) but the second I got stuck in the remove method  (the hardest one). I was able to complete the method passing majority of the test cases but I was struggling with some edge cases. End up looking to their solution nd replicate the code reusing part of mine. It was a mediocre day! In the question for BSt they ask what is the difference between the solution in recursive and iteratively. The solution using recursive consumes more  memory space, O(log (n)). But the code makes much more sense and more cleaning in this type of  exercises in my opinion.
+
+### Day 8: January 10, 2022
+
+**Today's Progress**:
+Build a new small project 'Generate Invites' 
+
+
+**Thoughts:**
+Today it was a bit different from the others days. Today I built a new small project that will be useful for my weeding. I learn a bit of python to generate and manipulate (adding a code into the image) images.
 <!--
 
 ### Day 0: February 30, 2016 (Example 2)

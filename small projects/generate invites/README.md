@@ -1,0 +1,2 @@
+This small project intends to  generate multiple images from an image (ideally a invite) and list of names from the file 'names.txt'
+The generated imaged will be storage inside of the 'generatedInvites' folder and a CSV file will be generated with the name, code, filename
