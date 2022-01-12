@@ -72,6 +72,15 @@ Build a new small project 'Generate Invites'
 
 **Thoughts:**
 Today it was a bit different from the others days. Today I built a new small project that will be useful for my weeding. I learn a bit of python to generate and manipulate (adding a code into the image) images.
+
+### Day 9: January 10, 2022
+
+**Today's Progress**:
+Complete one exercise 'Validate BST' from AlgoExpert
+
+
+**Thoughts:**
+The exercise was easy but I demonstrated lack of knowledge in the BST search and behavior. Once again I make it complex and end up spending all the time trying to debug. Only after reading their solution I understood where the issue was happening. Unfortunately the Number.Min was not helping and i found out the existence of a Infinity global variable from typescript, but this was not excuse. I should not jump right away to the code.   Not a good day :(
 <!--
 
 ### Day 0: February 30, 2016 (Example 2)
