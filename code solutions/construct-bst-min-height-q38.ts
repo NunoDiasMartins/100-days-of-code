@@ -1,5 +1,5 @@
 /**
- * 
+ *
  * the solution it is O( n.log(n)) because of the insertion method.
  * I could make it O(n) if I didn't used the insert and just create new BST and assign the left and right nodes.
  */

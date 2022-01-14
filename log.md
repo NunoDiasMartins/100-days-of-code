@@ -92,6 +92,16 @@ Complete one exercise 'Min Height BST' from AlgoExpert
 I was able to complete the exercise in more than 1hour. I got the idea pretty quick but the playing around with the index to insert in the BST was what pushed back. The day before I jump the challenge because I got a injure and spent a couple of hours in the hospital. Now I have a scar from living in Canada :')
 
 
+### Day 11: January 14, 2022
+
+**Today's Progress**:
+Complete two exercises from AlgoExpert. The 'BST traverse' and 'Find the Kth largest value in a BST'
+
+
+**Thoughts:**
+I was able to complete the first exercise pretty easily after listen a bit of the goal of what were teh in-order, pre-order and post-order traverses. The second exercise consumed a bit more of my time, but once again I make it much more complex than it was. I was trying to implement with O(1) in space and that wouldn't be possible. Once I read the tips carefully and the time & space expectation it was less than 10 minutes to build the solution. The first exercise helped to rapidly build the second solution once I stop to make it complex.
+
+
 <!--
 
 ### Day 0: February 30, 2016 (Example 2)
