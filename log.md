@@ -67,13 +67,13 @@ The first exercise completed in a couple of minutes (around 15) but the second I
 ### Day 8: January 10, 2022
 
 **Today's Progress**:
-Build a new small project 'Generate Invites' 
+Build a new small project 'Generate Invites'
 
 
 **Thoughts:**
 Today it was a bit different from the others days. Today I built a new small project that will be useful for my weeding. I learn a bit of python to generate and manipulate (adding a code into the image) images.
 
-### Day 9: January 10, 2022
+### Day 9: January 11, 2022
 
 **Today's Progress**:
 Complete one exercise 'Validate BST' from AlgoExpert
@@ -81,6 +81,17 @@ Complete one exercise 'Validate BST' from AlgoExpert
 
 **Thoughts:**
 The exercise was easy but I demonstrated lack of knowledge in the BST search and behavior. Once again I make it complex and end up spending all the time trying to debug. Only after reading their solution I understood where the issue was happening. Unfortunately the Number.Min was not helping and i found out the existence of a Infinity global variable from typescript, but this was not excuse. I should not jump right away to the code.   Not a good day :(
+
+### Day 10: January 13, 2022
+
+**Today's Progress**:
+Complete one exercise 'Min Height BST' from AlgoExpert
+
+
+**Thoughts:**
+I was able to complete the exercise in more than 1hour. I got the idea pretty quick but the playing around with the index to insert in the BST was what pushed back. The day before I jump the challenge because I got a injure and spent a couple of hours in the hospital. Now I have a scar from living in Canada :')
+
+
 <!--
 
 ### Day 0: February 30, 2016 (Example 2)
