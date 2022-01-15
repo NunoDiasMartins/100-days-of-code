@@ -101,6 +101,15 @@ Complete two exercises from AlgoExpert. The 'BST traverse' and 'Find the Kth lar
 **Thoughts:**
 I was able to complete the first exercise pretty easily after listen a bit of the goal of what were teh in-order, pre-order and post-order traverses. The second exercise consumed a bit more of my time, but once again I make it much more complex than it was. I was trying to implement with O(1) in space and that wouldn't be possible. Once I read the tips carefully and the time & space expectation it was less than 10 minutes to build the solution. The first exercise helped to rapidly build the second solution once I stop to make it complex.
 
+### Day 12: January 15, 2022
+
+**Today's Progress**:
+Complete two exercises from AlgoExpert. The 'invert binary tree' and 'reconstruction of a BST from a pre/Order array'
+
+
+**Thoughts:**
+I was able to complete both exercises less than an hour. the reconstruction exercise I could do a solution with a better performance instead of O(n^2).
+With the remaining time i started a new exercise but I wasn't able to complete today, it was to calculate the diameter of a binary tree, I believe once again I was making to much complex.Tomorrow maybe I will try again. 
 
 <!--
 
