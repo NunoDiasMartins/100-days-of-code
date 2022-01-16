@@ -109,7 +109,16 @@ Complete two exercises from AlgoExpert. The 'invert binary tree' and 'reconstruc
 
 **Thoughts:**
 I was able to complete both exercises less than an hour. the reconstruction exercise I could do a solution with a better performance instead of O(n^2).
-With the remaining time i started a new exercise but I wasn't able to complete today, it was to calculate the diameter of a binary tree, I believe once again I was making to much complex.Tomorrow maybe I will try again. 
+With the remaining time i started a new exercise but I wasn't able to complete today, it was to calculate the diameter of a binary tree, I believe once again I was making to much complex.Tomorrow maybe I will try again.
+
+### Day 13: January 1615, 2022
+
+**Today's Progress**:
+Complete two exercises from AlgoExpert. The 'binary tree diameter' and 'find successor'
+
+
+**Thoughts:**
+I was able to complete both exercises in a hour. The find successor I was able to picture the easy solution but more expense. Decided to read the hints and easily I was able to implement the best solution.
 
 <!--
 
