@@ -133,7 +133,7 @@ Complete just one exercises from AlgoExpert. The 'height tree balance'
 **Thoughts:**
 I was able to complete the exercise in around 20 minutes. then I start the new exercise that will require dynamic memory after  25 minutes I decided to call the day to avoid became frustrated. It is a bit late so tomorrow my mind will be more fresh to solve this exercise.
 
-### Day 14: January 17, 2022
+### Day 15: January 19, 2022
 
 **Today's Progress**:
 Complete just one exercises from AlgoExpert. The 'Max subset sum no adjacent numbers
@@ -141,6 +141,15 @@ Complete just one exercises from AlgoExpert. The 'Max subset sum no adjacent num
 
 **Thoughts:**
 I need to watch the explanation and find out the solution. I start work on other exercise but once again got stuck and start watching the explanation. This shows that i need to expand my knowledge on this dynamic programing exercise
+
+### Day 16: January 20, 2022
+
+**Today's Progress**:
+Develop a small index page with a small script to count the months
+
+**Thoughts:**
+This was a small page and script to calculate the months from the 20/02/2009. It took a while because I didn't have much experience in creating dom directly from javascript and using the Date from JS.
+
 <!--
 
 ### Day 0: February 30, 2016 (Example 2)
