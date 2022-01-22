@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { Message } from '@kekkonshiki/api-interfaces';
+import { Invite } from '@kekkonshiki/api-interfaces';
 
 @Component({
   selector: 'kekkonshiki-root',
@@ -8,6 +8,6 @@ import { Message } from '@kekkonshiki/api-interfaces';
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
-  hello$ = this.http.get<Message>('/api/hello');
+  hello$ = this.http.get<Invite>('/api/invite/12312');
   constructor(private http: HttpClient) {}
 }

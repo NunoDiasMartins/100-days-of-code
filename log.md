@@ -14,7 +14,7 @@ This challenge took me 1hour and I need to use the hints. I got blocked trying t
 Complete the exercise Smallest Difference from AlgoExpert
 
 **Thoughts:**
-This challenge took me 1hour to implement but I didn't use any hint. it took me more on the implementation dumb errors during code. The implementation was not the best performance but I was following the correct path and idea. 
+This challenge took me 1hour to implement but I didn't use any hint. it took me more on the implementation dumb errors during code. The implementation was not the best performance but I was following the correct path and idea.
 
 ### Day 3: January 4, 2022
 
@@ -158,6 +158,15 @@ Complete just one exercises from AlgoExpert. The 'Number of ways to make a chang
 **Thoughts:**
 The exercise required some dynamic programming which I may be a bit weak and should improve.
 Start creating the app for the wedding. I will use the Nx in order to build the app in angular and nestJs for the BE.
+
+### Day 18: January 22, 2022
+
+**Today's Progress**:
+Work on the wedding app, add a Invite model and kick off the invite api
+
+**Thoughts:**
+Using the nx to to a lot of boiler plate and reuse code between Angular and nestJs.
+Start building the API for the invites, expecting that each family will receive an invite code
 
 
 <!--

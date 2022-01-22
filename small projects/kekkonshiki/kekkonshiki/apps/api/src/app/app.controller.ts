@@ -1,15 +1,15 @@
-import { Controller, Get } from '@nestjs/common';
+import { Controller, Get, Param } from '@nestjs/common';
 
-import { Message } from '@kekkonshiki/api-interfaces';
+import { Invite } from '@kekkonshiki/api-interfaces';
 
 import { AppService } from './app.service';
 
-@Controller()
+@Controller('v1/invite')
 export class AppController {
   constructor(private readonly appService: AppService) {}
 
-  @Get('hello')
-  getData(): Message {
-    return this.appService.getData();
+  @Get(':id')
+  getInvite(@Param('id') id: string): Invite {
+    return this.appService.getData(id);
   }
 }

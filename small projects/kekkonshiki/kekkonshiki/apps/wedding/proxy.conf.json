@@ -1,6 +1,10 @@
 {
   "/api": {
     "target": "http://localhost:3333",
+    "pathRewrite": {
+      "^/api/": "/kekkonshiki/v1/"
+    },
     "secure": false
   }
+
 }
