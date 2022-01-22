@@ -150,6 +150,16 @@ Develop a small index page with a small script to count the months
 **Thoughts:**
 This was a small page and script to calculate the months from the 20/02/2009. It took a while because I didn't have much experience in creating dom directly from javascript and using the Date from JS.
 
+### Day 17: January 21, 2022
+
+**Today's Progress**:
+Complete just one exercises from AlgoExpert. The 'Number of ways to make a change' and start creating the app for the wedding page.
+
+**Thoughts:**
+The exercise required some dynamic programming which I may be a bit weak and should improve.
+Start creating the app for the wedding. I will use the Nx in order to build the app in angular and nestJs for the BE.
+
+
 <!--
 
 ### Day 0: February 30, 2016 (Example 2)
