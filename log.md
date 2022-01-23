@@ -168,6 +168,15 @@ Work on the wedding app, add a Invite model and kick off the invite api
 Using the nx to to a lot of boiler plate and reuse code between Angular and nestJs.
 Start building the API for the invites, expecting that each family will receive an invite code
 
+### Day 19: January 23, 2022
+
+
+**Today's Progress**:
+Completed one exercises from AlgoExpert and work on the wedding app. 
+**Thoughts:**
+ I was able to complete the algoexpert 'The min number of coins for change'. This time I was faster but to be honest it was to follow almost the same pattern as the previous exercise. I worked too in the wedding project adding the model for the accommodations and fixing the unit tests of the API.
+
+
 
 <!--
 

@@ -15,6 +15,20 @@ export interface Guest {
   age: number
 }
 
+export interface Accommodation {
+  name: string;
+  description: string;
+  url?: string;
+  contact: string;
+  rangePrice: {
+    min: number;
+    max: number;
+  }
+  pictures?: string[];
+  distance: string;
+  googleMapsUrl: string;
+}
+
 export enum Gender {
   Male, Female, Binary
 }
