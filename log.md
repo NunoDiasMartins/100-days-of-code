@@ -177,6 +177,15 @@ Completed one exercises from AlgoExpert and work on the wedding app.
  I was able to complete the AlgoExpert 'The min number of coins for change'. This time I was faster but to be honest it was to follow almost the same pattern as the previous exercise. I worked too in the wedding project adding the model for the accommodations and fixing the unit tests of the API.
 
 
+### Day 20: January 24, 2022
+
+
+**Today's Progress**:
+Cleaning up the repos
+
+**Thoughts:**
+ Spend the time to cleanup the repo. Moving the code to individuals repos.
+
 
 <!--
 
