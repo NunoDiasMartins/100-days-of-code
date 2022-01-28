@@ -179,12 +179,26 @@ Completed one exercises from AlgoExpert and work on the wedding app.
 
 ### Day 20: January 24, 2022
 
-
 **Today's Progress**:
 Cleaning up the repos
 
 **Thoughts:**
  Spend the time to cleanup the repo. Moving the code to individuals repos.
+
+### Day 21: January 25, 2022
+
+**Today's Progress**:
+Start working on an Algo expert exercise
+**Thoughts:**
+Spent almost all time trying to find the solution.
+
+### Day 22: January 27, 2022
+
+**Today's Progress**:
+Complete the levenshtein Distance from AlgoExper
+
+**Thoughts:**
+completed the exercise levenshteinDistance with two solution. one with better space O()
 
 
 <!--
