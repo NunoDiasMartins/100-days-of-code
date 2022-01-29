@@ -195,11 +195,18 @@ Spent almost all time trying to find the solution.
 ### Day 22: January 27, 2022
 
 **Today's Progress**:
-Complete the levenshtein Distance from AlgoExper
+Complete the levenshtein Distance from AlgoExpert
 
 **Thoughts:**
 completed the exercise levenshteinDistance with two solution. one with better space O()
 
+### Day 23: January 28, 2022
+
+**Today's Progress**:
+Complete the number of ways to traverse graph form AlgoExpert
+**Thoughts:**
+completed the exercise in less than 40 minutes but I need some hints to unlock
+the calculation.
 
 <!--
 
