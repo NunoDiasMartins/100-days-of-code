@@ -208,6 +208,14 @@ Complete the number of ways to traverse graph form AlgoExpert
 completed the exercise in less than 40 minutes but I need some hints to unlock
 the calculation.
 
+
+### Day 24: January 28, 2022
+
+**Today's Progress**:
+Complete the Kadanes Algorithm form AlgoExpert
+**Thoughts:**
+completed the exercise in less than 30 minutes without any hint but in a nlog(n) time complexity. After reading one of the hints I was able to see the light and make it O(n)
+
 <!--
 
 ### Day 0: February 30, 2016 (Example 2)
