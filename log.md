@@ -209,12 +209,20 @@ completed the exercise in less than 40 minutes but I need some hints to unlock
 the calculation.
 
 
-### Day 24: January 28, 2022
+### Day 24: January 29, 2022
 
 **Today's Progress**:
-Complete the Kadanes Algorithm form AlgoExpert
+Complete the Kadanes Algorithm from AlgoExpert
 **Thoughts:**
 completed the exercise in less than 30 minutes without any hint but in a nlog(n) time complexity. After reading one of the hints I was able to see the light and make it O(n)
+
+### Day 25: January 30, 2022
+
+**Today's Progress**:
+Complete the has Single Cycle from AlgoExpert
+**Thoughts:**
+completed the exercise without any hint and with the optimal complexity. Make it a bit more complex than was required to calculate but it was a valid calculation.
+Play a bit with Singleton pattern from https://www.patterns.dev/posts/singleton-pattern/
 
 <!--
 
