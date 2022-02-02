@@ -224,6 +224,15 @@ Complete the has Single Cycle from AlgoExpert
 completed the exercise without any hint and with the optimal complexity. Make it a bit more complex than was required to calculate but it was a valid calculation.
 Play a bit with Singleton pattern from https://www.patterns.dev/posts/singleton-pattern/
 
+### Day 26: February 1, 2022
+
+**Today's Progress**:
+Complete two exercises from algo expert
+**Thoughts:**
+Completed two exercises from AlgoExpert. The Breadth-first search and the river sizes.
+I was able to complete both in less than a hour. The first oneI didn't required any hint or help.
+For the second one I got the solution but expand the hints to confirm that I was in the good path and it was correct the initial solution, and help me clarify how to check th neighbors nodes.
+
 <!--
 
 ### Day 0: February 30, 2016 (Example 2)
