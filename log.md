@@ -233,6 +233,14 @@ Completed two exercises from AlgoExpert. The Breadth-first search and the river 
 I was able to complete both in less than a hour. The first oneI didn't required any hint or help.
 For the second one I got the solution but expand the hints to confirm that I was in the good path and it was correct the initial solution, and help me clarify how to check th neighbors nodes.
 
+### Day 27: February 2, 2022
+
+**Today's Progress**:
+Complete one exercise from AlgoExpert
+**Thoughts:**
+Today I completed only one exercise from AlgoExpert, the get youngest common ancestor. Completed in less than 30 minutes.
+
+
 <!--
 
 ### Day 0: February 30, 2016 (Example 2)
