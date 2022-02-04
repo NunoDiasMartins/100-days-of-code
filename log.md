@@ -241,6 +241,14 @@ Complete one exercise from AlgoExpert
 Today I completed only one exercise from AlgoExpert, the get youngest common ancestor. Completed in less than 30 minutes.
 
 
+### Day 28: February 3, 2022
+
+**Today's Progress**:
+Complete one exercise from AlgoExpert
+**Thoughts:**
+Today I completed only one exercise from AlgoExpert, the remove islands. Completed in around 30 minutes without any hint or help.
+
+
 <!--
 
 ### Day 0: February 30, 2016 (Example 2)
