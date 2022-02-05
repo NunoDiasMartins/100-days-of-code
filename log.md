@@ -248,14 +248,19 @@ Complete one exercise from AlgoExpert
 **Thoughts:**
 Today I completed only one exercise from AlgoExpert, the remove islands. Completed in around 30 minutes without any hint or help.
 
-### Day 28: February 4, 2022
+### Day 29: February 4, 2022
 
 **Today's Progress**:
 Complete one exercise from AlgoExpert
 **Thoughts:**
-Today I completed only one exercise from AlgoExpert, to fin a cycle in a graph. Completed in around 1hour and 15 minutes without only one hint. Built a different solution from the AlgoExpert team. need to understand their solution in order to lear more about it. 
+Today I completed only one exercise from AlgoExpert, to find a cycle in a graph. Completed in around 1hour and 15 minutes without only one hint. Built a different solution from the AlgoExpert team. need to understand their solution in order to lear more about it.
 
+### Day 30: February 4, 2022
 
+**Today's Progress**:
+Complete one exercise from AlgoExpert
+**Thoughts:**
+Today I completed only one exercise from AlgoExpert, in a hour + some minutes. I did without any hint. The exercise was Minimum passes of matrix.
 
 <!--
 
