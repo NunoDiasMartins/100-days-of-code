@@ -255,13 +255,20 @@ Complete one exercise from AlgoExpert
 **Thoughts:**
 Today I completed only one exercise from AlgoExpert, to find a cycle in a graph. Completed in around 1hour and 15 minutes without only one hint. Built a different solution from the AlgoExpert team. need to understand their solution in order to lear more about it.
 
-### Day 30: February 4, 2022
+### Day 30: February 5, 2022
 
 **Today's Progress**:
 Complete one exercise from AlgoExpert
 **Thoughts:**
 Today I completed only one exercise from AlgoExpert, in a hour + some minutes. I did without any hint. The exercise was Minimum passes of matrix.
 
+### Day 31: February 6, 2022
+
+**Today's Progress**:
+Complete one exercise from AlgoExpert
+**Thoughts:**
+Today I completed only one exercise from AlgoExpert, in  less than 20 minutes. I did without any hint. The exercise was task assignment. 
+I started to implement the next algoExpert exercise.
 <!--
 
 ### Day 0: February 30, 2016 (Example 2)
