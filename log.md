@@ -269,6 +269,16 @@ Complete one exercise from AlgoExpert
 **Thoughts:**
 Today I completed only one exercise from AlgoExpert, in  less than 20 minutes. I did without any hint. The exercise was task assignment. 
 I started to implement the next algoExpert exercise.
+
+### Day 32: February 7, 2022
+
+**Today's Progress**:
+Complete the Valid starting city exercise from AlgoExpert
+**Thoughts:**
+Today I completed only one exercise from AlgoExpert, it took me almost an hour and used all the hints and video.
+I almost the solution on paper but I was making a bit more complex . 
+
+
 <!--
 
 ### Day 0: February 30, 2016 (Example 2)
