@@ -278,7 +278,12 @@ Complete the Valid starting city exercise from AlgoExpert
 Today I completed only one exercise from AlgoExpert, it took me almost an hour and used all the hints and video.
 I almost the solution on paper but I was making a bit more complex . 
 
+### Day 33: February 9, 2022
 
+**Today's Progress**:
+Work on the landing page for the private project
+**Thoughts:**
+I try to implement a fancy scroll behavior for the landing page
 <!--
 
 ### Day 0: February 30, 2016 (Example 2)
