@@ -284,6 +284,13 @@ I almost the solution on paper but I was making a bit more complex .
 Work on the landing page for the private project
 **Thoughts:**
 I try to implement a fancy scroll behavior for the landing page
+
+### Day 34: February 10, 2022
+
+**Today's Progress**:
+Implemented partial of an AlgoExpert exercise
+**Thoughts:**
+Implemented two methods of double linked list for algo Expert exercise
 <!--
 
 ### Day 0: February 30, 2016 (Example 2)
