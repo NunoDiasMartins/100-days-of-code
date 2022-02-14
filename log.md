@@ -300,3 +300,10 @@ Finished the double linked list implementation AlgoExpert exercise
 Implemented all methods methods of double linked list for algo Expert exercise
 
 
+### Day 36: February 13, 2022
+
+**Today's Progress**:
+Finished the  removeKthNodeFromEnd  AlgoExpert exercise
+**Thoughts:**
+finished without hints and less than 1hour 
+
