@@ -313,3 +313,10 @@ finished without hints and less than 1hour
 Finished the  sumOfLinkedLists  AlgoExpert exercise
 **Thoughts:**
 finished without hints and less than 20 minutes
+
+### Day 38: February 16, 2022
+
+**Today's Progress**:
+Finished the  get permutations  AlgoExpert exercise
+**Thoughts:**
+finished without hints and less than 45 minutes without hints
