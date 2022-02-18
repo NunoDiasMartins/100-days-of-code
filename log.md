@@ -320,3 +320,10 @@ finished without hints and less than 20 minutes
 Finished the  get permutations  AlgoExpert exercise
 **Thoughts:**
 finished without hints and less than 45 minutes without hints
+
+### Day 39: February 17, 2022
+
+**Today's Progress**:
+Finished the power set AlgoExpert exercise
+**Thoughts:**
+finished without hints and less than 1 hour, I was making to complex, when it could be  simpler
