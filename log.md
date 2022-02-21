@@ -328,9 +328,16 @@ Finished the power set AlgoExpert exercise
 **Thoughts:**
 finished without hints and less than 1 hour, I was making to complex, when it could be  simpler
 
-### Day 40: February 17, 2022
+### Day 40: February 18, 2022
 
 **Today's Progress**:
 Finished the phone Number Mnemonics AlgoExpert exercise
 **Thoughts:**
 finished without hints and around 30 minutes, all the tests passed on the first try.
+
+### Day 41: February 21, 2022
+
+**Today's Progress**:
+Finished the stair case Traversal AlgoExpert exercise
+**Thoughts:**
+It required me to use the hints but I could learn the windows strategy to avoid recursive + dynamic memory in some scenarios
