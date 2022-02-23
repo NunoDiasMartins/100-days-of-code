@@ -341,3 +341,19 @@ finished without hints and around 30 minutes, all the tests passed on the first 
 Finished the stair case Traversal AlgoExpert exercise
 **Thoughts:**
 It required me to use the hints but I could learn the windows strategy to avoid recursive + dynamic memory in some scenarios
+
+
+### Day 42: February 22, 2022
+
+**Today's Progress**:
+Finished the search In Sorted Matrix AlgoExpert exercise
+**Thoughts:**
+It took me around 30 minutes without any hint
+
+
+### Day 43: February 23, 2022
+
+**Today's Progress**:
+Finished the stair case three Number Sort AlgoExpert exercise
+**Thoughts:**
+Finished with two solution. the first in less than 10 minutes, the second took me like 20  minutes.
