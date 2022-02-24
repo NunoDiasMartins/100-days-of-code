@@ -354,6 +354,13 @@ It took me around 30 minutes without any hint
 ### Day 43: February 23, 2022
 
 **Today's Progress**:
-Finished the stair case three Number Sort AlgoExpert exercise
+Finished the stair case three Number Sort and MaxMin stack AlgoExpert exercise
 **Thoughts:**
-Finished with two solution. the first in less than 10 minutes, the second took me like 20  minutes.
+Finished with two solution. the first in less than 10 minutes, the second took me like 20  minutes. The MaxMinStack was done in less than 30 minutes
+
+### Day 44: February 23, 2022
+
+**Today's Progress**:
+Finished the balanced brackets exercise
+**Thoughts:**
+Finished the exercise in less than 20 minutes.
