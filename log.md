@@ -372,3 +372,30 @@ Finished the exercise in less than 20 minutes.
 Completed the sunset Views exercise
 **Thoughts:**
 Finished the exercise in less than 30 minutes.
+### Day 46: February 26, 2022
+
+**Today's Progress**:
+Completed the sort stack exercise
+**Thoughts:**
+Finished the exercise in less than 30 minutes.
+
+### Day 47: February 26, 2022
+
+**Today's Progress**:
+Completed the sort stack and next greater element exercise
+**Thoughts:**
+Finished  both exercises in less than an hour. the next greater element is not the best O time solution
+
+### Day 48: February 28, 2022
+
+**Today's Progress**:
+Completed the longest palindromic exercise
+**Thoughts:**
+Finished the exercise in less than 30 minutes but not the best O(n) solution
+
+### Day 49: February 28, 2022
+
+**Today's Progress**:
+Completed the group anagrams exercise
+**Thoughts:**
+Finished the exercise in 30 minutes. The optimal solution is different
