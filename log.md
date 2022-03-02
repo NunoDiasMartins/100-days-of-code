@@ -393,9 +393,17 @@ Completed the longest palindromic exercise
 **Thoughts:**
 Finished the exercise in less than 30 minutes but not the best O(n) solution
 
-### Day 49: February 28, 2022
+### Day 49: March 1, 2022
 
 **Today's Progress**:
 Completed the group anagrams exercise
 **Thoughts:**
 Finished the exercise in 30 minutes. The optimal solution is different
+
+
+### Day 50: March 2, 2022
+
+**Today's Progress**:
+Completed the valid IP Addresses exercise
+**Thoughts:**
+Finished the exercise in 45 minutes. The optimal solution is slight different but I am proud of it.
