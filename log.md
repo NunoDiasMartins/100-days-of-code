@@ -404,6 +404,30 @@ Finished the exercise in 30 minutes. The optimal solution is different
 ### Day 50: March 2, 2022
 
 **Today's Progress**:
-Completed the valid IP Addresses exercise
+Completed the 3 exercises from algoExpert
 **Thoughts:**
-Finished the exercise in 45 minutes. The optimal solution is slight different but I am proud of it.
+Finished the exercise valid IP Addresses exercise in 45 minutes. The optimal solution is slight different but I am proud of it.
+Complete two more exercises in this day. The minimum characters for words and the reverse words in string.
+
+### Day 51: March 3, 2022
+
+**Today's Progress**:
+Completed the populate suffix trie
+**Thoughts:**
+Finished the exercise in 1h. took me a while to understand the data suffix trie and how it should work
+
+### Day 52: March 4, 2022
+
+**Today's Progress**:
+Completed the four number sum
+**Thoughts:**
+Finished the exercise in 45. Used one hint to make it n^2 instead of n^4 in time complexity.
+
+
+### Day 53: March 5, 2022
+
+**Today's Progress**:
+Completed the subarray sort
+**Thoughts:**
+Finished the exercise in 1h. Did the solution without any hint and in the expected complexity time and space.
+
